@@ -1,9 +1,7 @@
 {
-    "questions": [
-        {
+    "questions": [{
             "text": "Çanakkale Savaşı sırasında 215 kg’lık mermiyi tek başına kaldıran Türk kahramanı kimdir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Kazım Karabekir",
                     "correct": false
                 },
@@ -24,8 +22,7 @@
         },
         {
             "text": "Sık ormanlı bir bölgede yön bulmak için hangi yöntem kullanılmaz?",
-            "options": [
-                {
+            "options": [{
                     "text": "Karınca Yuvası",
                     "correct": false
                 },
@@ -46,8 +43,7 @@
         },
         {
             "text": "Periyodik tablonun 10. elementi olan Ne sembollü elementin özel adı nedir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Neon",
                     "correct": true
                 },
@@ -68,8 +64,7 @@
         },
         {
             "text": "Sofra tuzu olarak bilinen bileşiğin formülü aşağıdakilerden hangisidir?",
-            "options": [
-                {
+            "options": [{
                     "text": "H2O",
                     "correct": false
                 },
@@ -90,8 +85,7 @@
         },
         {
             "text": "Başkenti Zagreb olan Avrupa ülkesi aşağıdakilerden hangisidir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Polonya",
                     "correct": false
                 },
@@ -112,8 +106,7 @@
         },
         {
             "text": "Bayrağında kırmızı ve beyaz rengini içermeyen ülke hangisidir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Türkiye",
                     "correct": false
                 },
@@ -134,8 +127,7 @@
         },
         {
             "text": "Aşağıdakilerden hangi hayvan kuluçkaya yatar?",
-            "options": [
-                {
+            "options": [{
                     "text": "Arı",
                     "correct": false
                 },
@@ -156,8 +148,7 @@
         },
         {
             "text": "Hangisi 'bıkmak' anlamına gelir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Hizaya gelmek",
                     "correct": false
                 },
@@ -178,8 +169,7 @@
         },
         {
             "text": "Hasbihal, ne demektir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Gürültü",
                     "correct": false
                 },
@@ -200,8 +190,7 @@
         },
         {
             "text": "Şehir içi toplu ulaşım araçlarında rastlanabilen ve 'orta ve arka kapıları kullanınız' şeklinde biten uyarı yazısının başı nasıldır?",
-            "options": [
-                {
+            "options": [{
                     "text": "Sökmek için",
                     "correct": false
                 },
@@ -222,8 +211,7 @@
         },
         {
             "text": "2022'de gerçekleşen FİFA Word Cup futbol etkiliğinde finale katılmaya hak kazanan iki takım aşağıdakilerden hangisidir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Arjantin-İngiltere",
                     "correct": false
                 },
@@ -244,8 +232,7 @@
         },
         {
             "text": "1389-1403 tarihleri arasında padişahlık yapmış Yıldırım lakabıyla tanınan padişahımız kimdir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Sultan Süleyman",
                     "correct": false
                 },
@@ -266,8 +253,7 @@
         },
         {
             "text": "Aşağıdaki ülkelerden hangisi Afrika kıtasında bulunmaktadır?",
-            "options": [
-                {
+            "options": [{
                     "text": "Tanzanya",
                     "correct": true
                 },
@@ -288,8 +274,7 @@
         },
         {
             "text": "Aşağıdaki kimyasal türler arası etkileşimlerden hangisi güçlü etkileşimler başlığı altında değerlendirilir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Kovalent Bağ",
                     "correct": true
                 },
@@ -310,8 +295,7 @@
         },
         {
             "text": "1864 yılında yayımlanan Yer Altından Notlar kitabının yazarı kimdir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Anton Çehov",
                     "correct": false
                 },
@@ -332,8 +316,7 @@
         },
         {
             "text": "1 takvim yılı kaç dakikadır?",
-            "options": [
-                {
+            "options": [{
                     "text": "8766",
                     "correct": false
                 },
@@ -354,8 +337,7 @@
         },
         {
             "text": "Türkiye'nin nüfusu en az olan bölgesi hangisidir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Karadeniz Bölgesi",
                     "correct": false
                 },
@@ -376,8 +358,7 @@
         },
         {
             "text": "Hangisi atletizmde 'dekatlon'da yarışan sporcuların mücadele ettikleri dallardan biri değildir?",
-            "options": [
-                {
+            "options": [{
                     "text": "100 metre koşusu",
                     "correct": false
                 },
@@ -398,8 +379,7 @@
         },
         {
             "text": "Azerbaycan bayrağının eşit genişlikteki üç yatay parçasının yukarıdan aşağıya, doğru sıralaması nasıldır?",
-            "options": [
-                {
+            "options": [{
                     "text": "Kırmızı, mavi, yeşil",
                     "correct": false
                 },
@@ -420,8 +400,7 @@
         },
         {
             "text": "Hangisi 15. Yüzyılda gerçekleşmiştir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Fransız İhtilali",
                     "correct": false
                 },
@@ -442,8 +421,7 @@
         },
         {
             "text": "Guinness Dünya Rekorlarına göre, 2012'de düzenlenen bir tenis turnuvasında kayıtlara geçen en hızlı servis saatte kaç kilometredir?",
-            "options": [
-                {
+            "options": [{
                     "text": "163",
                     "correct": false
                 },
@@ -464,8 +442,7 @@
         },
         {
             "text": "Hicri takvime göre hangisi Şaban ayındadır?",
-            "options": [
-                {
+            "options": [{
                     "text": "Kadir Gecesi",
                     "correct": false
                 },
@@ -486,8 +463,7 @@
         },
         {
             "text": "Hangisi Ordu'nun coğrafi işaretle tescilli bir ürünü değildir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Ordu pidesi",
                     "correct": false
                 },
@@ -508,8 +484,7 @@
         },
         {
             "text": "Aşağıdakilerden hangisi bir Avrupa ülkesi olan Finlandiya'nın başkentidir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Stockholm",
                     "correct": false
                 },
@@ -530,8 +505,7 @@
         },
         {
             "text": "Olayların kronolojik olarak anlatıldığı bir tarih ders kitabında hangi ünite başlığı diğer üçünden sonraki bir sayfada yer alır?",
-            "options": [
-                {
+            "options": [{
                     "text": "Soğuk Savaş Dönemi",
                     "correct": true
                 },
@@ -552,8 +526,7 @@
         },
         {
             "text": "Aşağıdaki ülkelerden hangisinin bayrağında yeşil beyaz ve turuncu renkleri bulunur?",
-            "options": [
-                {
+            "options": [{
                     "text": "İzlanda",
                     "correct": false
                 },
@@ -574,8 +547,7 @@
         },
         {
             "text": "NBA liginin yıldızlarından biri olan Dirk Nowitzki tüm kariyerini hangi takımda geçirmiştir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Indiana Pacers",
                     "correct": false
                 },
@@ -596,8 +568,7 @@
         },
         {
             "text": "Aşağıdaki kimyasal bileşiklerden hangisi glikozun formülüdür?",
-            "options": [
-                {
+            "options": [{
                     "text": "C₂H₂",
                     "correct": false
                 },
@@ -618,8 +589,7 @@
         },
         {
             "text": "Pusulalarda 'S' harfi hangi yönü temsil eder?",
-            "options": [
-                {
+            "options": [{
                     "text": "Sol",
                     "correct": false
                 },
@@ -640,8 +610,7 @@
         },
         {
             "text": "Uzantısı 'gov.tr' şeklinde olan resmi internet siteleri genellikle hangisine ait olur?",
-            "options": [
-                {
+            "options": [{
                     "text": "Devlet kurumlarına",
                     "correct": true
                 },
@@ -662,8 +631,7 @@
         },
         {
             "text": "1959'dan günümüze kadarki Süper Lig tarihinde ilk gol hangi futbolcu olmuştur?",
-            "options": [
-                {
+            "options": [{
                     "text": "Can Bartu",
                     "correct": false
                 },
@@ -684,8 +652,7 @@
         },
         {
             "text": "Yüz ölçümü olarak en küçük olan hangisidir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Avrupa ana karası",
                     "correct": false
                 },
@@ -706,8 +673,7 @@
         },
         {
             "text": "Daire şeklinde standart bir duvar saatinde, saat kaçken akreple yelkovan arasındaki açı 180 derece olur?",
-            "options": [
-                {
+            "options": [{
                     "text": "12.30",
                     "correct": false
                 },
@@ -728,8 +694,7 @@
         },
         {
             "text": "Hangisi sincaba verilen adlardan biridir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Çekelez",
                     "correct": true
                 },
@@ -750,8 +715,7 @@
         },
         {
             "text": "Osmanlılarda, genel olarak Tanzimat Dönemi'nden Meşrutiyet Dönemi'ne kadar kullanılmış olan 'istanbulin' nedir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Bir tür kadın şapkası",
                     "correct": false
                 },
@@ -772,8 +736,7 @@
         },
         {
             "text": "Hangi iki Osmanlı padişahı kardeş değildir?",
-            "options": [
-                {
+            "options": [{
                     "text": "II. Mustafa ve III. Ahmed",
                     "correct": false
                 },
@@ -794,8 +757,7 @@
         },
         {
             "text": "4 yanlışın 1 doğruyu götürdüğü 100 soruluk çoktan seçmeli bir sınavda 9 boşu ve 8 yanlışı olan birinin neti kaçtır?",
-            "options": [
-                {
+            "options": [{
                     "text": "83",
                     "correct": false
                 },
@@ -816,8 +778,7 @@
         },
         {
             "text": "1959'dan günümüze kadarki Süper Lig tarihinde, art arda 90 iç saha maçında mağlup olmayarak 'kendi evinde en uzun süre yenilmeyen takım' ünvanını elinde bulunduran hangisidir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Trabzonspor",
                     "correct": true
                 },
@@ -838,8 +799,7 @@
         },
         {
             "text": "Türkiye'nin en az ilçesi olan ili hangisidir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Tokat",
                     "correct": false
                 },
@@ -860,8 +820,7 @@
         },
         {
             "text": "23 Nisan 1920'de açılan TBMM'nin birinci dönem milletvekillerinden hangisi, milletvekili olduğu ille doğru eşleştirilmiştir?",
-            "options": [
-                {
+            "options": [{
                     "text": "Kazım Karabekir Paşa, Erzurum",
                     "correct": false
                 },
@@ -877,6 +836,964 @@
                     "text": "Fevzi Paşa, Kozan",
                     "correct": true
                 }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangi şehir Türkiye'nin başkentidir?",
+            "options": [{
+                    "text": "İstanbul",
+                    "correct": false
+                },
+                {
+                    "text": "Ankara",
+                    "correct": true
+                },
+                {
+                    "text": "İzmir",
+                    "correct": false
+                },
+                {
+                    "text": "Bursa",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Türkiye'nin en uzun nehri hangisidir?",
+            "options": [{
+                    "text": "Fırat",
+                    "correct": false
+                },
+                {
+                    "text": "Dicle",
+                    "correct": false
+                },
+                {
+                    "text": "Kızılırmak",
+                    "correct": true
+                },
+                {
+                    "text": "Sakarya",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Hangi kıta en büyük yüzölçümüne sahiptir?",
+            "options": [{
+                    "text": "Avrupa",
+                    "correct": false
+                },
+                {
+                    "text": "Afrika",
+                    "correct": false
+                },
+                {
+                    "text": "Asya",
+                    "correct": true
+                },
+                {
+                    "text": "Antarktika",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Dünyanın en yüksek dağı hangisidir?",
+            "options": [{
+                    "text": "K2",
+                    "correct": false
+                },
+                {
+                    "text": "Kangchenjunga",
+                    "correct": false
+                },
+                {
+                    "text": "Everest",
+                    "correct": true
+                },
+                {
+                    "text": "Lhotse",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Hangi gezegen Güneş Sistemi'nin en büyük gezegenidir?",
+            "options": [{
+                    "text": "Venüs",
+                    "correct": false
+                },
+                {
+                    "text": "Mars",
+                    "correct": false
+                },
+                {
+                    "text": "Jüpiter",
+                    "correct": true
+                },
+                {
+                    "text": "Satürn",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Hangi hayvan uçabilen bir memelidir?",
+            "options": [{
+                    "text": "Penguen",
+                    "correct": false
+                },
+                {
+                    "text": "Yarasa",
+                    "correct": true
+                },
+                {
+                    "text": "Kartal",
+                    "correct": false
+                },
+                {
+                    "text": "Karga",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Hangisi bir çöl değildir?",
+            "options": [{
+                    "text": "Sahra",
+                    "correct": false
+                },
+                {
+                    "text": "Gobi",
+                    "correct": false
+                },
+                {
+                    "text": "Kalahari",
+                    "correct": false
+                },
+                {
+                    "text": "Amazon",
+                    "correct": true
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Hangi renk karışımı mavi ve kırmızıdan oluşur?",
+            "options": [{
+                    "text": "Yeşil",
+                    "correct": false
+                },
+                {
+                    "text": "Mor",
+                    "correct": true
+                },
+                {
+                    "text": "Turuncu",
+                    "correct": false
+                },
+                {
+                    "text": "Sarı",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Hangi elementin sembolü O'dur?",
+            "options": [{
+                    "text": "Altın",
+                    "correct": false
+                },
+                {
+                    "text": "Gümüş",
+                    "correct": false
+                },
+                {
+                    "text": "Oksijen",
+                    "correct": true
+                },
+                {
+                    "text": "Azot",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Hangi hayvanın uzun boynu ile tanındığı söylenir?",
+            "options": [{
+                    "text": "Fil",
+                    "correct": false
+                },
+                {
+                    "text": "Zürafa",
+                    "correct": true
+                },
+                {
+                    "text": "Kaplan",
+                    "correct": false
+                },
+                {
+                    "text": "Tavşan",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Hangisi bir tatlı türüdür?",
+            "options": [{
+                    "text": "Mantı",
+                    "correct": false
+                },
+                {
+                    "text": "Lahmacun",
+                    "correct": false
+                },
+                {
+                    "text": "Baklava",
+                    "correct": true
+                },
+                {
+                    "text": "Dolma",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Hangisi bir gök cismi değildir?",
+            "options": [{
+                    "text": "Güneş",
+                    "correct": false
+                },
+                {
+                    "text": "Ay",
+                    "correct": false
+                },
+                {
+                    "text": "Dünya",
+                    "correct": false
+                },
+                {
+                    "text": "Ev",
+                    "correct": true
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Hangi meyve sarı renklidir?",
+            "options": [{
+                    "text": "Elma",
+                    "correct": false
+                },
+                {
+                    "text": "Armut",
+                    "correct": false
+                },
+                {
+                    "text": "Limon",
+                    "correct": true
+                },
+                {
+                    "text": "Çilek",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Hangi hayvanın sırtında dikenler bulunur?",
+            "options": [{
+                    "text": "Kaplumbağa",
+                    "correct": false
+                },
+                {
+                    "text": "Kirpi",
+                    "correct": true
+                },
+                {
+                    "text": "Aslan",
+                    "correct": false
+                },
+                {
+                    "text": "Tavşan",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Hangi ağaç türü yaprak dökmez?",
+            "options": [{
+                    "text": "Çam",
+                    "correct": true
+                },
+                {
+                    "text": "Meşe",
+                    "correct": false
+                },
+                {
+                    "text": "Kavak",
+                    "correct": false
+                },
+                {
+                    "text": "Akçaağaç",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Türkiye'nin en yüksek dağı hangisidir?",
+            "options": [{
+                    "text": "Uludağ",
+                    "correct": false
+                },
+                {
+                    "text": "Erciyes",
+                    "correct": false
+                },
+                {
+                    "text": "Kaçkar",
+                    "correct": false
+                },
+                {
+                    "text": "Ağrı Dağı",
+                    "correct": true
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Hangisi bir Asya ülkesidir?",
+            "options": [{
+                    "text": "Almanya",
+                    "correct": false
+                },
+                {
+                    "text": "Kanada",
+                    "correct": false
+                },
+                {
+                    "text": "Hindistan",
+                    "correct": true
+                },
+                {
+                    "text": "Brezilya",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Hangi madde bir sıvıdır?",
+            "options": [{
+                    "text": "Buz",
+                    "correct": false
+                },
+                {
+                    "text": "Su",
+                    "correct": true
+                },
+                {
+                    "text": "Demir",
+                    "correct": false
+                },
+                {
+                    "text": "Taş",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Hangi elementin atom numarası 79'dur?",
+            "options": [
+                { "text": "Altın", "correct": true },
+                { "text": "Gümüş", "correct": false },
+                { "text": "Demir", "correct": false },
+                { "text": "Platin", "correct": false }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Türkiye'nin en büyük gölü hangisidir?",
+            "options": [
+                { "text": "Van Gölü", "correct": true },
+                { "text": "Tuz Gölü", "correct": false },
+                { "text": "Beyşehir Gölü", "correct": false },
+                { "text": "Eğirdir Gölü", "correct": false }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "M.Ö. 4. yüzyılda yaşamış ünlü bir filozof olan Aristoteles'in öğrencisi kimdir?",
+            "options": [
+                { "text": "Platon", "correct": false },
+                { "text": "Sokrates", "correct": false },
+                { "text": "Eflatun", "correct": false },
+                { "text": "Aleksander", "correct": true }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Hangi gezegen Güneş Sistemi'nde en az sayıda doğal uydusuna sahiptir?",
+            "options": [
+                { "text": "Mars", "correct": true },
+                { "text": "Uranüs", "correct": false },
+                { "text": "Neptün", "correct": false },
+                { "text": "Venüs", "correct": false }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Pablo Picasso'nun en bilinen sanat akımlarından biri olan 'Kübizm' hangi yıl başlamıştır?",
+            "options": [
+                { "text": "1907", "correct": true },
+                { "text": "1910", "correct": false },
+                { "text": "1912", "correct": false },
+                { "text": "1920", "correct": false }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Hangi ülke dünyanın en büyük adasına ev sahipliği yapar?",
+            "options": [
+                { "text": "Kanada", "correct": false },
+                { "text": "Avustralya", "correct": false },
+                { "text": "Grönland", "correct": true },
+                { "text": "Yeni Zelanda", "correct": false }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Hangi element kimyasal sembolü 'Hg' olan cıva ile bilinir?",
+            "options": [
+                { "text": "Cobalt", "correct": false },
+                { "text": "Argon", "correct": false },
+                { "text": "Helium", "correct": false },
+                { "text": "Mercury", "correct": true }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Şu anda bilinen en eski yazılı metin hangi uygarlığa aittir?",
+            "options": [
+                { "text": "Sümer", "correct": true },
+                { "text": "Mısır", "correct": false },
+                { "text": "Asur", "correct": false },
+                { "text": "Hitit", "correct": false }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Leonardo da Vinci'nin ünlü 'Son Akşam Yemeği' tablosu hangi İtalyan şehrinde yer almaktadır?",
+            "options": [
+                { "text": "Roma", "correct": false },
+                { "text": "Floransa", "correct": false },
+                { "text": "Milano", "correct": true },
+                { "text": "Venedik", "correct": false }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Hangi gezegen en kısa gün uzunluğuna sahiptir?",
+            "options": [
+                { "text": "Jüpiter", "correct": true },
+                { "text": "Mars", "correct": false },
+                { "text": "Uranüs", "correct": false },
+                { "text": "Neptün", "correct": false }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Hangisi bir atom altı parçacık değildir?",
+            "options": [
+                { "text": "Elektron", "correct": false },
+                { "text": "Proton", "correct": false },
+                { "text": "Nötron", "correct": false },
+                { "text": "Neutron", "correct": true }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Hangi ülkenin resmi dili Arapça'dır?",
+            "options": [
+                { "text": "Yunanistan", "correct": false },
+                { "text": "Japonya", "correct": false },
+                { "text": "Suudi Arabistan", "correct": true },
+                { "text": "Brezilya", "correct": false }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Hangi gezegen Güneş Sistemi'nde halkaları olan ilk gezegen olarak bilinir?",
+            "options": [
+                { "text": "Venüs", "correct": false },
+                { "text": "Mars", "correct": false },
+                { "text": "Satürn", "correct": true },
+                { "text": "Uranüs", "correct": false }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Hangi bilim dalı yıldızları ve gök cisimlerini inceler?",
+            "options": [
+                { "text": "Astronomi", "correct": true },
+                { "text": "Kimya", "correct": false },
+                { "text": "Biyoloji", "correct": false },
+                { "text": "Fizik", "correct": false }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Hangi romanın yazarı Gabriel García Márquez'dir?",
+            "options": [
+                { "text": "Yüz Yıllık Yalnızlık", "correct": true },
+                { "text": "Suç ve Ceza", "correct": false },
+                { "text": "Savaş ve Barış", "correct": false },
+                { "text": "Bülbülü Öldürmek", "correct": false }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Hangi gezegenin yüzeyi asidik bulutlarla kaplıdır?",
+            "options": [
+                { "text": "Merkür", "correct": false },
+                { "text": "Venüs", "correct": true },
+                { "text": "Mars", "correct": false },
+                { "text": "Neptün", "correct": false }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Hangi ülkenin başkenti Şehirşehir'dir?",
+            "options": [
+                { "text": "Lüksemburg", "correct": true },
+                { "text": "Monako", "correct": false },
+                { "text": "Malta", "correct": false },
+                { "text": "Andorra", "correct": false }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Hangisi ünlü bir matematiksel sabittir?",
+            "options": [
+                { "text": "Pi", "correct": true },
+                { "text": "E", "correct": false },
+                { "text": "F", "correct": false },
+                { "text": "X", "correct": false }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Hangi ülkenin resmi dili Norveççedir?",
+            "options": [
+                { "text": "Norveç", "correct": true },
+                { "text": "İsveç", "correct": false },
+                { "text": "Danimarka", "correct": false },
+                { "text": "Finlandiya", "correct": false }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Hangi gezegenin yüzeyi denizlerle kaplıdır?",
+            "options": [
+                { "text": "Mars", "correct": false },
+                { "text": "Venüs", "correct": false },
+                { "text": "Jüpiter", "correct": false },
+                { "text": "Dünya", "correct": true }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Hangi ülkenin ulusal para birimi 'Kuna'dır?",
+            "options": [
+                { "text": "Hırvatistan", "correct": true },
+                { "text": "Sırbistan", "correct": false },
+                { "text": "Arnavutluk", "correct": false },
+                { "text": "Bosna-Hersek", "correct": false }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Hangi matematiksel yapı, karmaşık sayıların alanıdır?",
+            "options": [
+                { "text": "Algebra", "correct": false },
+                { "text": "Geometri", "correct": false },
+                { "text": "Karmaşık Analiz", "correct": true },
+                { "text": "Topoloji", "correct": false }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Şu anda bilinen en büyük yıldız hangisidir?",
+            "options": [
+                { "text": "Sirius", "correct": false },
+                { "text": "Betelgeuse", "correct": true },
+                { "text": "Polaris", "correct": false },
+                { "text": "Rigel", "correct": false }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Newton'un hangi yasası cisimlerin hareketi ile ilgilenir?",
+            "options": [
+                { "text": "İlk Yasası", "correct": false },
+                { "text": "İkinci Yasası", "correct": false },
+                { "text": "Üçüncü Yasası", "correct": true },
+                { "text": "Dördüncü Yasası", "correct": false }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Mikroskopla görülemeyen en küçük biyolojik birim nedir?",
+            "options": [
+                { "text": "Hücre", "correct": false },
+                { "text": "Organ", "correct": false },
+                { "text": "Virüs", "correct": true },
+                { "text": "Bakteri", "correct": false }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "En eski matematiksel yazı hangi uygarlığa aittir?",
+            "options": [
+                { "text": "Sümerler", "correct": true },
+                { "text": "Mısırlılar", "correct": false },
+                { "text": "Yunanlılar", "correct": false },
+                { "text": "Hintliler", "correct": false }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Hangi kimyasal elementin sembolü 'Th'dir?",
+            "options": [
+                { "text": "Thorium", "correct": true },
+                { "text": "Thulium", "correct": false },
+                { "text": "Tantalum", "correct": false },
+                { "text": "Tellurium", "correct": false }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Hangi felsefi akım, 'güç' kavramını temel alır ve Nietzsche tarafından geliştirilmiştir?",
+            "options": [
+                { "text": "Stoacılık", "correct": false },
+                { "text": "Egoizm", "correct": false },
+                { "text": "Üstinsan", "correct": true },
+                { "text": "Sofizm", "correct": false }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Hangi bilim adamı genel görelilik teorisini geliştirmiştir?",
+            "options": [
+                { "text": "Isaac Newton", "correct": false },
+                { "text": "Albert Einstein", "correct": true },
+                { "text": "Niels Bohr", "correct": false },
+                { "text": "Galileo Galilei", "correct": false }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Hangi edebi tür, gerçek olayları kurgusal bir şekilde ele alır?",
+            "options": [
+                { "text": "Roman", "correct": false },
+                { "text": "Deneme", "correct": false },
+                { "text": "Biyografi", "correct": true },
+                { "text": "Şiir", "correct": false }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Hangi organik molekül, DNA'nın yapı taşıdır?",
+            "options": [
+                { "text": "Amino Asit", "correct": false },
+                { "text": "Nükleotid", "correct": true },
+                { "text": "Şeker", "correct": false },
+                { "text": "Yağ Asidi", "correct": false }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Hangi ülkenin en büyük doğal gölü 'Baikal' gölüdür?",
+            "options": [
+                { "text": "Rusya", "correct": true },
+                { "text": "Kanada", "correct": false },
+                { "text": "Çin", "correct": false },
+                { "text": "Amerika Birleşik Devletleri", "correct": false }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Hangi matematiksel sabit, yaklaşık olarak 2.71828 olarak bilinir?",
+            "options": [
+                { "text": "Pi", "correct": false },
+                { "text": "E", "correct": true },
+                { "text": "Altın Oran", "correct": false },
+                { "text": "Karekök 2", "correct": false }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Hangi astronomik olay, gökyüzündeki bir yıldızın ani ve geçici olarak parlamasına neden olur?",
+            "options": [
+                { "text": "Yıldız Patlaması", "correct": false },
+                { "text": "Süpernova", "correct": true },
+                { "text": "Kuyruklu Yıldız", "correct": false },
+                { "text": "Büyüklük Değişimi", "correct": false }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Hangi yazılım dili, web geliştirme için yaygın olarak kullanılır ve 'script' dili olarak bilinir?",
+            "options": [
+                { "text": "Python", "correct": false },
+                { "text": "Java", "correct": false },
+                { "text": "JavaScript", "correct": true },
+                { "text": "C++", "correct": false }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Hangi ünlü düşünür, 'Devlet' isimli eseri ile ideal devlet yapısını tartışmıştır?",
+            "options": [
+                { "text": "Aristoteles", "correct": false },
+                { "text": "Platon", "correct": true },
+                { "text": "Sokrat", "correct": false },
+                { "text": "Konfüçyüs", "correct": false }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Hangi gezegen, Güneş Sistemi'nde en büyük yerçekimine sahip gezegendir?",
+            "options": [
+                { "text": "Jüpiter", "correct": true },
+                { "text": "Satürn", "correct": false },
+                { "text": "Uranüs", "correct": false },
+                { "text": "Neptün", "correct": false }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Hangi matematiksel işlem, bir sayıyı kendisiyle çarpmayı içerir?",
+            "options": [
+                { "text": "Toplama", "correct": false },
+                { "text": "Çıkarma", "correct": false },
+                { "text": "Bölme", "correct": false },
+                { "text": "Çarpma", "correct": true }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Hangi müzik terimi, bir melodinin ritmik olarak tekrarını ifade eder?",
+            "options": [
+                { "text": "Armoni", "correct": false },
+                { "text": "Tempo", "correct": false },
+                { "text": "Koro", "correct": false },
+                { "text": "Ritim", "correct": true }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Hangi ünlü fizikçi, kuantum mekaniğinin temelini atan çalışmalarıyla bilinir?",
+            "options": [
+                { "text": "Niels Bohr", "correct": true },
+                { "text": "Max Planck", "correct": false },
+                { "text": "Erwin Schrödinger", "correct": false },
+                { "text": "Eyüphan Binici", "correct": false }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Hangi matematiksel problem, 'Yüksek Dereceden Denklemler' başlığı altında çözülebilir?",
+            "options": [
+                { "text": "Birinci Dereceden Denklem", "correct": false },
+                { "text": "İkinci Dereceden Denklem", "correct": false },
+                { "text": "Üçüncü Dereceden Denklem", "correct": false },
+                { "text": "Dördüncü Dereceden Denklem", "correct": true }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangi kimyasal element, 'Tennessine' adıyla bilinir ve periyodik tablonun 117. elementidir?",
+            "options": [
+                { "text": "Tungsten", "correct": false },
+                { "text": "Tennessine", "correct": true },
+                { "text": "Tellurium", "correct": false },
+                { "text": "Thorium", "correct": false }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangisi, quantum mekaniğinde 'Kültürel Alan' teorisi olarak bilinen bir modelin adıdır?",
+            "options": [
+                { "text": "Many-Worlds Interpretasyonu", "correct": false },
+                { "text": "Kopenhag Yorumlaması", "correct": false },
+                { "text": "De Broglie-Bohm Teorisi", "correct": false },
+                { "text": "Kültürel Alan", "correct": true }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangisi, Einstein'ın genel görelilik kuramını doğrulayan deneylerden biridir?",
+            "options": [
+                { "text": "Mercury'nin Yörünge Anomalisi", "correct": true },
+                { "text": "Hubble'ın Kanunu", "correct": false },
+                { "text": "Fizeau Deneyi", "correct": false },
+                { "text": "Stern-Gerlach Deneyi", "correct": false }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangi felsefi terim, bir şeyin yalnızca kendi kendini gerçekleştirme yeteneğini ifade eder?",
+            "options": [
+                { "text": "Eudaimonia", "correct": false },
+                { "text": "Özselik", "correct": true },
+                { "text": "Eşitlik", "correct": false },
+                { "text": "İyilik", "correct": false }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangi ünlü matematikçi, 'P-Çözüm' ve 'NP-İkili' problemleri ile tanınır?",
+            "options": [
+                { "text": "Andrew Wiles", "correct": false },
+                { "text": "John Nash", "correct": false },
+                { "text": "Stephen Cook", "correct": true },
+                { "text": "David Hilbert", "correct": false }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangisi, nörolojide beyin aktivitesini haritalandırmak için kullanılan bir teknolojidir?",
+            "options": [
+                { "text": "MRG", "correct": false },
+                { "text": "EEG", "correct": true },
+                { "text": "CT Tarayıcı", "correct": false },
+                { "text": "PET Tarayıcı", "correct": false }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangisi, dünya tarihindeki ilk kadın bilim insanlarından biridir ve 'İlk Kadın Astronom' olarak bilinir?",
+            "options": [
+                { "text": "Hildegard von Bingen", "correct": false },
+                { "text": "Maria Mitchell", "correct": true },
+                { "text": "Ada Lovelace", "correct": false },
+                { "text": "Rosalind Franklin", "correct": false }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangi matematiksel özellik, bir fonksiyonun simetrisini ve belirli bir noktaya göre yansımasını ifade eder?",
+            "options": [
+                { "text": "Asimetrik", "correct": false },
+                { "text": "Simetrik", "correct": true },
+                { "text": "Antisimetrik", "correct": false },
+                { "text": "Dönüşümsel", "correct": false }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangisi, Japonya'daki en yüksek volkanik dağdır?",
+            "options": [
+                { "text": "Fujiyama", "correct": true },
+                { "text": "Sakurajima", "correct": false },
+                { "text": "Krakatoa", "correct": false },
+                { "text": "Mount St. Helens", "correct": false }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangi felsefi akım, ‘Tümselcilik’ olarak bilinen bir düşünce sistemini ifade eder?",
+            "options": [
+                { "text": "Pragmatizm", "correct": false },
+                { "text": "Varoluşçuluk", "correct": false },
+                { "text": "Holizm", "correct": true },
+                { "text": "İdealizm", "correct": false }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangisi, matematiksel modelleme alanında 'Fraktal Geometri'yi geliştiren bilim insanıdır?",
+            "options": [
+                { "text": "Benoît Mandelbrot", "correct": true },
+                { "text": "John Nash", "correct": false },
+                { "text": "Kurt Gödel", "correct": false },
+                { "text": "Alan Turing", "correct": false }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangisi, Nobel ödüllü bir fizikçi olup 'Kaotik Dinamikler' üzerine önemli çalışmalar yapmıştır?",
+            "options": [
+                { "text": "Roger Penrose", "correct": false },
+                { "text": "Murray Gell-Mann", "correct": false },
+                { "text": "Ilya Prigogine", "correct": true },
+                { "text": "Richard Feynman", "correct": false }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangisi, Gödel'in Eksiklik Teoremi'ni ilk ortaya atan matematikçidir?",
+            "options": [
+                { "text": "Kurt Gödel", "correct": true },
+                { "text": "David Hilbert", "correct": false },
+                { "text": "Alan Turing", "correct": false },
+                { "text": "John von Neumann", "correct": false }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangisi, 'Süpernovalar' teorisini geliştiren ve kuantum mekaniğinin temelini atan bilim insanıdır?",
+            "options": [
+                { "text": "Niels Bohr", "correct": false },
+                { "text": "Albert Einstein", "correct": false },
+                { "text": "George Gamow", "correct": true },
+                { "text": "Enrico Fermi", "correct": false }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangi ünlü düşünür, 'Tarih Felsefesi' kitabıyla toplumsal ve tarihsel süreçleri analiz etmiştir?",
+            "options": [
+                { "text": "Karl Marx", "correct": false },
+                { "text": "Georg Wilhelm Friedrich Hegel", "correct": true },
+                { "text": "Friedrich Nietzsche", "correct": false },
+                { "text": "Max Weber", "correct": false }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangi astronomik olay, bir gezegenin veya yıldızın bir yıldızın önünden geçerken gölgede kalmasını ifade eder?",
+            "options": [
+                { "text": "Eklips", "correct": false },
+                { "text": "Transit", "correct": true },
+                { "text": "Nova", "correct": false },
+                { "text": "Supernova", "correct": false }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangisi, yapay zeka ve makine öğrenmesi alanında 'Derin Öğrenme' kavramını popüler hale getiren araştırmacıdır?",
+            "options": [
+                { "text": "Geoffrey Hinton", "correct": true },
+                { "text": "Yoshua Bengio", "correct": false },
+                { "text": "Andrew Ng", "correct": false },
+                { "text": "Jürgen Schmidhuber", "correct": false }
             ],
             "stage": 4
         }
