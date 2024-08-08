@@ -5,7 +5,7 @@ let correctCount = 0;
 let incorrectCount = 0;
 let deletejoker = 1;
 let shieldjoker = 1;
-let timeLeft = 90;
+let timeLeft = 15;
 let timerInterval;
 let scaleFactor = 1;
 
@@ -15,7 +15,6 @@ fetch('bilgec_quiz_formatted_questions.json')
     .then(data => {
         questions = data.questions;
         updateProgress(true);
-        startTimer();
         loadNextQuestion();
     })
     .catch(error => console.error('Error fetching JSON:', error));
@@ -33,12 +32,13 @@ function loadNextQuestion() {
     switch (currentQuestionIndex+1) {
         case 1:
         case 2:
-        case 3: 
+        case 3:
         case 4:
             do {
                 const randomIndex = Math.floor(Math.random() * questions.length);
                 question = questions[randomIndex];
             } while (usedQuestions.includes(question) || question.stage !== 1);
+            startTimer();
             break;
         case 5:
         case 6:
@@ -48,6 +48,7 @@ function loadNextQuestion() {
                 const randomIndex = Math.floor(Math.random() * questions.length);
                 question = questions[randomIndex];
             } while (usedQuestions.includes(question) || question.stage !== 2);
+            closeTimer();
             break;
         case 9:
         case 10:
@@ -57,6 +58,7 @@ function loadNextQuestion() {
                 const randomIndex = Math.floor(Math.random() * questions.length);
                 question = questions[randomIndex];
             } while (usedQuestions.includes(question) || question.stage !== 3);
+            closeTimer();
             break;
         case 13:
         case 14:
@@ -65,6 +67,7 @@ function loadNextQuestion() {
                 const randomIndex = Math.floor(Math.random() * questions.length);
                 question = questions[randomIndex];
             } while (usedQuestions.includes(question) || question.stage !== 4);
+            closeTimer();
             break;
         default:
            
@@ -72,7 +75,6 @@ function loadNextQuestion() {
     
     usedQuestions.push(question);// Seçilen soruyu ekle
 
-    console.log(usedQuestions.length);
     // Soru metnini ayarla
     document.querySelector('.soru-yazi').innerText = question.text;
    
@@ -115,7 +117,7 @@ function loadNextQuestion() {
                 this.classList.add('correct');
                 correctCount++;
                 setTimeout(updateProgress, 1000, true);
-                setTimeout(loadNextQuestion, 1000); // 1 saniye bekleme süresi
+                setTimeout(loadNextQuestion, 2000); // 1 saniye bekleme süresi
             } else {
                 this.classList.add('incorrect');
                 showCorrectAnswer(options);
@@ -174,8 +176,6 @@ document.getElementById('restart-button').addEventListener('click', resetGame);
 
 function resetGame() {
     clearInterval(timerInterval);
-    startTimer();
-
     const kutular = document.querySelectorAll('.kutu');
     kutular.forEach(kutu => {
         kutu.classList.remove('correct', 'active', 'incorrect');
@@ -185,7 +185,7 @@ function resetGame() {
     shieldjoker = 1;
     usedQuestions = [];
     currentQuestionIndex = -1;
-    setTimeout(loadNextQuestion, 1); // 1 saniye bekleme süresi
+    setTimeout(loadNextQuestion, 2); // 1 saniye bekleme süresi
     correctCount = 0;
     incorrectCount = 0;
     currentQuestionIndex = -1;
@@ -234,6 +234,7 @@ function hideOneIncorrectOptions() {
 function updateTimer() {
     document.getElementById('timer').textContent = timeLeft;
     if (timeLeft > 0) {
+        resetTimerStyle();
         timeLeft--;
         if (timeLeft < 10) {
             document.getElementById('timer-bg').style.backgroundColor = 'red';
@@ -246,16 +247,28 @@ function updateTimer() {
         clearInterval(timerInterval);
         updateProgress(false);
         showResults(false);
-        document.getElementById('timer-bg').style.backgroundColor = '#2ecc71';
-        document.getElementById('timer').style.color = 'black';
-        document.getElementById('timer').style.transform = `scale(1)`;
-        document.getElementById('timer-bg').style.transform = `scale(1)`;
-        scaleFactor = 1;
+        resetTimerStyle();
     }
 }
 function startTimer() {
-    timeLeft = 90;
-    updateTimer();
-    timerInterval = setInterval(updateTimer, 1000);
-}
+    clearInterval(timerInterval);
+    if (currentQuestionIndex < 4) {
+        document.getElementById('timer-bg').style.display = 'flex';
+        timeLeft = 15;
+        updateTimer();
+        timerInterval = setInterval(updateTimer, 1000);
+    }
 
+}
+function closeTimer() {
+    clearInterval(timerInterval);
+    resetTimerStyle();
+    document.getElementById('timer-bg').style.display = 'none';
+}
+function resetTimerStyle() {
+    document.getElementById('timer-bg').style.backgroundColor = '#2ecc71';
+    document.getElementById('timer').style.color = 'black';
+    document.getElementById('timer').style.transform = `scale(1)`;
+    document.getElementById('timer-bg').style.transform = `scale(1)`;
+    scaleFactor = 1;
+}

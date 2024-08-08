@@ -6,6 +6,17 @@
     box-sizing: border-box;
     font-family:'Poppins';
 }
+html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden; /* Sayfa kaydırmayı devre dışı bırak */
+}
+.container {
+    transform: scale(0.8); /* Ölçekleme oranını ayarla */
+    transform-origin: 0 0; /* Ölçekleme noktasını sol üst köşe olarak ayarla */
+    width: 125%; /* Ölçekleme nedeniyle genişliği artır */
+    height: 125%; /* Ölçekleme nedeniyle yüksekliği artır */
+  }
 body{
     background-color: #dcf2f7;
 }
@@ -27,8 +38,8 @@ body{
 }
 
 .ust h1{
-    font-size: 60px;
-    font-weight: 300;
+    font-size: 50px;
+    font-weight: 200;
 }
 
 .alt{
@@ -67,8 +78,11 @@ body{
 .soru{
     font-size: 30px;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 100%;
-    max-height: 300px;
+    height: 300px;
     user-select: none;
 }
 .siklar{
@@ -218,12 +232,12 @@ body{
     user-select: none;   
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1200px) and (min-width: 768px){
     .body{
         width: 60%;
   }
 }
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width:768px) {
     .body{
         width: 90%;
   }
