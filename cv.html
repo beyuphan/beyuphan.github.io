@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eyüphan Binici - Backend Engineer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: white;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        header {
+            margin-bottom: 30px;
+            border-bottom: 2px solid #0066cc;
+            padding-bottom: 20px;
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 15px;
+        }
+
+        h1 {
+            font-size: 28px;
+            font-weight: 700;
+            color: #0066cc;
+            margin-bottom: 5px;
+        }
+
+        .subtitle {
+            font-size: 14px;
+            color: #666;
+            font-weight: 500;
+        }
+
+        .contact-info {
+            font-size: 12px;
+            color: #666;
+            text-align: right;
+        }
+
+        .contact-info p {
+            margin-bottom: 3px;
+        }
+
+        .contact-info a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+
+        .summary {
+            font-size: 14px;
+            color: #555;
+            font-style: italic;
+            line-height: 1.7;
+            margin-bottom: 25px;
+        }
+
+        section {
+            margin-bottom: 25px;
+        }
+
+        h2 {
+            font-size: 14px;
+            font-weight: 700;
+            color: #0066cc;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 12px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .entry {
+            margin-bottom: 18px;
+        }
+
+        .entry-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 5px;
+        }
+
+        .entry-title {
+            font-weight: 600;
+            font-size: 13px;
+            color: #222;
+        }
+
+        .entry-subtitle {
+            font-size: 12px;
+            color: #666;
+            font-style: italic;
+        }
+
+        .entry-date {
+            font-size: 12px;
+            color: #999;
+            font-weight: 500;
+        }
+
+        .entry-description {
+            font-size: 12px;
+            color: #555;
+            line-height: 1.6;
+            margin-top: 4px;
+        }
+
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
+            font-size: 12px;
+        }
+
+        .skill-category {
+            margin-bottom: 8px;
+        }
+
+        .skill-label {
+            font-weight: 600;
+            color: #0066cc;
+            margin-bottom: 4px;
+        }
+
+        .skill-list {
+            color: #555;
+            line-height: 1.5;
+        }
+
+        .badge {
+            display: inline-block;
+            background: #f0f4f8;
+            color: #0066cc;
+            padding: 3px 8px;
+            border-radius: 3px;
+            margin-right: 5px;
+            margin-bottom: 5px;
+            font-size: 11px;
+        }
+
+        ul {
+            margin-left: 18px;
+            font-size: 12px;
+            color: #555;
+        }
+
+        ul li {
+            margin-bottom: 5px;
+            line-height: 1.5;
+        }
+
+        @media print {
+            body {
+                padding: 0;
+            }
+            .container {
+                padding: 20px;
+                max-width: 100%;
+            }
+            header {
+                margin-bottom: 20px;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .header-top {
+                flex-direction: column;
+            }
+            .contact-info {
+                text-align: left;
+                margin-top: 10px;
+            }
+            .skills-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-top">
+                <div>
+                    <h1>EYÜPHAN BİNİCİ</h1>
+                    <p class="subtitle">Backend & Full-Stack Engineer</p>
+                </div>
+                <div class="contact-info">
+                    <p>📧 eyuphan546@gmail.com</p>
+                    <p>📱 +90 541 347 43 68</p>
+                    <p>📍 Atakum, Samsun, Turkey</p>
+                    <p><a href="https://github.com/beyuphan">github.com/beyuphan</a></p>
+                    <p><a href="https://eyuphan.netlify.app">eyuphan.netlify.app</a></p>
+                </div>
+            </div>
+            <p class="summary">
+                Full-stack engineer specializing in location-based data systems and intelligent decision support platforms.
+                Built production-grade backends using Python and Node.js, mobile applications with Flutter, and data-driven systems
+                using MCP architecture. Passionate about solving complex problems through clean code and system design.
+            </p>
+        </header>
+
+        <!-- Technical Skills -->
+        <section>
+            <h2>Technical Skills</h2>
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <div class="skill-label">Backend & Databases</div>
+                    <div class="skill-list">Python, Node.js, Java, Django, Express.js, MySQL, PostgreSQL</div>
+                </div>
+                <div class="skill-category">
+                    <div class="skill-label">Mobile & Frontend</div>
+                    <div class="skill-list">Flutter, React, TypeScript, HTML/CSS, JavaScript</div>
+                </div>
+                <div class="skill-category">
+                    <div class="skill-label">Architecture & Tools</div>
+                    <div class="skill-list">MCP, REST APIs, Docker, Git, Apache Tomcat, Railway</div>
+                </div>
+                <div class="skill-category">
+                    <div class="skill-label">Data & AI</div>
+                    <div class="skill-list">Data Processing, Signal Processing, HERE Maps API, LangGraph</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Featured Projects -->
+        <section>
+            <h2>Featured Projects</h2>
+
+            <div class="entry">
+                <div class="entry-header">
+                    <div>
+                        <div class="entry-title">GeoIntel MCP – Location-Based Decision Support Platform</div>
+                        <div class="entry-subtitle">Backend Lead | Python, MCP Architecture, REST APIs</div>
+                    </div>
+                    <div class="entry-date">2024 – Present</div>
+                </div>
+                <div class="entry-description">
+                    Built a production-grade decision support system that analyzes location-based data and routes using intelligent agents.
+                    Integrated HERE Maps API for geocoding and routing, implemented multi-source data aggregation,
+                    and designed cost-optimized routing algorithms. System handles proactive analysis through MCP framework with Python backend.
+                </div>
+                <ul>
+                    <li>Architected modular backend with service-oriented design (orchestrator, MCP clients, data helpers)</li>
+                    <li>Integrated external APIs (HERE Maps, weather services) with robust error handling and caching</li>
+                    <li>Implemented intelligent trip planning with cost optimization and multi-criteria analysis</li>
+                </ul>
+            </div>
+
+            <div class="entry">
+                <div class="entry-header">
+                    <div>
+                        <div class="entry-title">KitapKöşem – Social Book Platform</div>
+                        <div class="entry-subtitle">Full-Stack Developer | Java, JSP, MySQL, Apache Tomcat</div>
+                    </div>
+                    <div class="entry-date">2023 – 2024</div>
+                </div>
+                <div class="entry-description">
+                    Developed a full-featured social platform for book enthusiasts using Java Servlet/JSP with MVC architecture.
+                    Features include user authentication, book reviews, ratings, and community interactions.
+                </div>
+                <ul>
+                    <li>Implemented secure user authentication with bcrypt password hashing and session management</li>
+                    <li>Built image upload system integrating imgBB API with Apache HttpClient</li>
+                    <li>Designed MySQL schema for user relationships, book reviews, and rating system</li>
+                </ul>
+            </div>
+
+            <div class="entry">
+                <div class="entry-header">
+                    <div>
+                        <div class="entry-title">Rize Kültür – Cultural Platform (API + Mobile)</div>
+                        <div class="entry-subtitle">Full-Stack Developer | Node.js, Flutter, REST APIs</div>
+                    </div>
+                    <div class="entry-date">2023 – 2024</div>
+                </div>
+                <div class="entry-description">
+                    Developed backend API and mobile application showcasing Rize's cultural heritage and events.
+                    Backend handles content management, user interactions, and real-time data serving to mobile clients.
+                </div>
+                <ul>
+                    <li>Built Express.js REST API with modular route handlers and middleware architecture</li>
+                    <li>Created Flutter mobile app with responsive UI and smooth backend integration</li>
+                    <li>Implemented user authentication and content management system</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- Experience -->
+        <section>
+            <h2>Professional Experience</h2>
+
+            <div class="entry">
+                <div class="entry-header">
+                    <div>
+                        <div class="entry-title">Software Development Intern / Mobile Developer</div>
+                        <div class="entry-subtitle">Rize Municipality (Rize Belediyesi)</div>
+                    </div>
+                    <div class="entry-date">July – August 2025</div>
+                </div>
+                <div class="entry-description">
+                    Developed and optimized mobile applications for municipal digital services. Implemented UI optimizations
+                    and backend integration workflows for citizen-facing applications.
+                </div>
+            </div>
+        </section>
+
+        <!-- Education -->
+        <section>
+            <h2>Education</h2>
+
+            <div class="entry">
+                <div class="entry-header">
+                    <div>
+                        <div class="entry-title">Bachelor of Science in Computer Engineering</div>
+                        <div class="entry-subtitle">Ondokuz Mayıs University</div>
+                    </div>
+                    <div class="entry-date">Expected June 2026</div>
+                </div>
+            </div>
+
+            <div class="entry">
+                <div class="entry-header">
+                    <div>
+                        <div class="entry-title">Visual Communication History (Open Education)</div>
+                        <div class="entry-subtitle">Anadolu University</div>
+                    </div>
+                    <div class="entry-date">In Progress – 2027</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Certifications -->
+        <section>
+            <h2>Certifications & Training</h2>
+            <ul>
+                <li><strong>Savunma Sanayi Akademi SSA 401</strong> – Defense Industry Training Certificate (2026)</li>
+                <li><strong>Jetpack Compose for Android</strong> – Kasım ADALAN Bootcamp (2025)</li>
+                <li><strong>Blockchain 101</strong> – Coderspace Bootcamp (2025)</li>
+                <li><strong>ISG Services Management</strong> – Occupational Health & Safety Certificate (2025)</li>
+            </ul>
+        </section>
+
+        <!-- Languages -->
+        <section>
+            <h2>Languages</h2>
+            <ul>
+                <li><strong>Turkish</strong> – Native</li>
+                <li><strong>English</strong> – Intermediate</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
