@@ -2,7 +2,7 @@
 
 # 👋 Eyüphan Binici
 
-**3rd Year Computer Engineering Student**  
+**Computer Engineering Graduate**  
 **Backend Engineer | Full-Stack Developer | Location Intelligence**
 
 Building intelligent systems that solve real-world problems through data, APIs, and smart design.
@@ -16,7 +16,7 @@ Building intelligent systems that solve real-world problems through data, APIs, 
 
 ## 🎯 About Me
 
-3rd year Computer Engineering student at Ondokuz Mayıs University specializing in location-based data systems, backend architecture, and intelligent decision support platforms. 
+Computer Engineering graduate specializing in location-based data systems, backend architecture, and intelligent decision support platforms. 
 
 Experience building production-grade backends with Python & Node.js, responsive mobile apps with Flutter, signal processing systems, and computer vision applications. Focused on clean code, scalable architecture, and solving complex problems through data intelligence.
 
@@ -70,35 +70,39 @@ FFT-based spectral analysis and adaptive filtering for noise removal. PyQt5 GUI 
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=beyuphan&theme=tokyonight)](https://github.com/beyuphan)
-
----
-
 ## 🎓 Education
 
 - **Bachelor's in Computer Engineering** – Ondokuz Mayıs University (2026)
 - **Visual Communication History** – Anadolu University (In Progress, 2027)
 
-## 🏆 Certifications
+## 🏆 Certifications & Training
 
 - SSA 401 Defense Industry Training (2026)
 - Jetpack Compose for Android Bootcamp (2025)
 - Blockchain 101 Bootcamp (2025)
+- ISG Occupational Health & Safety Training (2025)
 
 ---
 
 ## 🎯 What I'm Working On
 
-- 🔨 Backend systems with clean architecture
-- 📍 Location intelligence and geospatial data
-- 🚀 Full-stack projects (database to UI)
+- 🔨 Building scalable backend systems with clean architecture
+- 📍 Location intelligence and geospatial data processing
+- 🚀 Full-stack projects from database to mobile UI
 - 🔊 Signal processing and real-time systems
 
 ---
 
-## 📞 Contact
+## 💼 Experience
+
+**Software Development Intern / Mobile Developer**  
+*Rize Municipality (July – August 2025)*
+- Developed mobile applications for municipal digital services
+- UI optimization and backend integration workflows
+
+---
+
+## 📞 Contact & Links
 
 - 📧 [Email](mailto:eyuphan546@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/eyuphanbinici)
